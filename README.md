@@ -1,4 +1,4 @@
-# **Project Title: Category-based Merchandise Generator**
+# **Category-based Merchandise Generator**
 
 This project generates a list of merchandise items based on predefined categories using the OpenAI API. The category information is stored in the **`category2.txt`** file and the generated merchandise list will be saved in the **`merchandise.txt`** file.
 
